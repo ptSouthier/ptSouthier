@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Backend Developer 🚀</h3>
 
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://img.freepik.com/free-vector/young-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.jpg?size=626&ext=jpg" />
+<img width = "40%" align="right" alt="PIC" height="300px" src="https://img.freepik.com/free-vector/young-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.jpg?size=626&ext=jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
@@ -14,6 +14,8 @@
 </div> 
 </div>
 
+<br/>
+<br/>
 <br/>
 <br/>
 
