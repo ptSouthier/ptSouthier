@@ -9,7 +9,7 @@
 
   - 🎓 &nbsp; Studying Software Development at Trybe 🚀.
   - 💼 &nbsp; I’m currently looking for a job to improve my skills and learn new technologies.
-  - 🌱 &nbsp; Learning more about Frontend Developement and Backend Architectures, soon I'll learn Data Science.
+  - 🌱 &nbsp; Learning more about Frontend Developement and Backend Architectures with JS, soon I'll learn Data Science with Python!
   - ♻️ &nbsp; Always doing my best to deliver a readable and reusable code.  
 </div> 
 </div>
