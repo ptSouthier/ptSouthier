@@ -17,7 +17,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 <h2 align="center">
   Here are some Languages and Tools I know:
