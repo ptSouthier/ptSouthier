@@ -1,15 +1,15 @@
 <h1 align="center"><img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Hello World! I'm Patrick Southier </h1>
 
-<h3 align="center">🚀 Backend Developer 🚀</h3>
+<h3 align="center">🚀 FullStack Developer 🚀</h3>
 
 <div>
 <img width = "40%" align="right" alt="PIC" height="300px" src="https://img.freepik.com/free-vector/young-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.jpg?size=626&ext=jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🎓 &nbsp; Studying Software Development at Trybe 🚀.
-  - 💼 &nbsp; I’m currently looking for a job to improve my skills and learn new technologies.
-  - 🌱 &nbsp; Learning more about Frontend Development, Backend Architectures with JS, and Data Science with Python!
+  - 🎓 &nbsp; Studied Software Development at Trybe 🚀.
+  - 💼 &nbsp; I’m currently looking for a job to improve my skills and learn new technologies!
+  - 🌱 &nbsp; Learning more about Frontend Development, Backend Architectures with JS, and Data Science with Python.
   - ♻️ &nbsp; Always doing my best to deliver a readable and reusable code.  
 </div> 
 </div>
