@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Hello World! I'm Patrick Southier </h1>
+<h1 align="center"><img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px" height="40px"> Hello World! I'm Patrick Southier </h1>
 
 <h3 align="center">🚀 FullStack Developer 🚀</h3>
 
