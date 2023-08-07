@@ -8,8 +8,8 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🎓 &nbsp; Studied Software Development at [Trybe](https://www.betrybe.com/) 🚀.
-  - 💼 &nbsp; I worked for a year at [Cashforce](https://cashforce.com.br/) and am currently looking for a job to keep improving my skills and learn new technologies!
-  - 🌱 &nbsp; Learning more about Frontend Development, Backend Architectures with JS, and Data Science with Python.
+  - 💼 &nbsp; I worked for a year at [Cashforce](https://cashforce.com.br/) and am currently looking for a job to keep improving my soft and hard skills!
+  - 🌱 &nbsp; Learning about POO with Typescript and C#, and DevOps concepts.
   - ♻️ &nbsp; Always doing my best to deliver a readable and reusable code.  
 </div> 
 </div>
